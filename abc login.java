@@ -13,5 +13,7 @@ declare global {
 		// interface Platform {}
 			declare global {
 	namespace App {
+declare global {
+	namespace App {
 
 
