@@ -13,6 +13,5 @@ declare global {
 		// interface Platform {}
 			declare global {
 	namespace App {
-		// interface Error {}
-		interface Locals {
+
 
